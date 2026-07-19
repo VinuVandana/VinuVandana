@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Vinu Vandana 👋
 
-<!--
-**VinuVandana/VinuVandana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with professional experience in the IT industry.
 
-Here are some ideas to get you started:
+Currently pursuing the Post Graduate Program in Artificial Intelligence at The University of Texas at Austin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Statistics
+- Python
+
+## Featured Projects
+
+📊 FoodHub Business Analytics
+
+📈 Statistical Hypothesis Testing
+
+🤖 Machine Learning Models
+
+📉 Customer Analytics
+
+## Technical Skills
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- SQL
+- Google Colab
+- Git
+- GitHub
+
+## Currently Learning
+
+- Deep Learning
+- Neural Networks
+- Generative AI
+
+Thanks for visiting my profile!
