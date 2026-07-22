@@ -35,6 +35,7 @@ Currently pursuing the Post Graduate Program in Artificial Intelligence at The U
 
 ## Currently Learning
 
+- Data Analytics
 - Deep Learning
 - Neural Networks
 - Generative AI
